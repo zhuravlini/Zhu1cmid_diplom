@@ -78,17 +78,6 @@
 		</right>
 	</object>
 	<object>
-		<name>DataProcessor.VanessaAutomationsingle</name>
-		<right>
-			<name>Use</name>
-			<value>true</value>
-		</right>
-		<right>
-			<name>View</name>
-			<value>true</value>
-		</right>
-	</object>
-	<object>
 		<name>InformationRegister.ВКМ_УсловияОплатыСотрудников</name>
 		<right>
 			<name>Read</name>
