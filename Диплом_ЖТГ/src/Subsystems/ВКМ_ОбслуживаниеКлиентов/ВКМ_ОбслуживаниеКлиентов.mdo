@@ -23,6 +23,9 @@
   <content>Report.ВКМ_АнализВыставленныхАктов</content>
   <content>CommonPicture.обслуживание</content>
   <content>Document.РеализацияТоваровУслуг</content>
-  <content>Role.ВКМ_ДобавлениеИзменениеОбслуживанияКлиентов</content>
+  <content>Role.ВКМ_ДобавлениеИзменениеОбслуживанияКлиентовМенеджер</content>
   <content>DataProcessor.ВКМ_МассовоеСозданиеАктов</content>
+  <content>Role.ВКМ_ДобавлениеИзменениеОбслуживанияКлиентовСпециалист</content>
+  <content>Report.ВКМ_ВыработкаСпециалистов</content>
+  <content>DataProcessor.VanessaAutomationsingle</content>
 </mdclass:Subsystem>

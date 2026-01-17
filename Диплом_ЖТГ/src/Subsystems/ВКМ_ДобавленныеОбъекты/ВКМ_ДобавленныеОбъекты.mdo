@@ -40,8 +40,11 @@
   <content>Report.ВКМ_АнализВыставленныхАктов</content>
   <content>Report.ВКМ_РасчётыССотрудниками</content>
   <content>Report.ВКМ_РасходЗапланированныхОтпусков</content>
-  <content>Role.ВКМ_ДобавлениеИзменениеОбслуживанияКлиентов</content>
+  <content>Role.ВКМ_ДобавлениеИзменениеОбслуживанияКлиентовМенеджер</content>
   <content>Role.ВКМ_РаботаСМассовымСозданиемАктов</content>
   <content>Role.ВКМ_РаботаСКадрДок</content>
   <content>DataProcessor.ВКМ_МассовоеСозданиеАктов</content>
+  <content>Role.ВКМ_ДобавлениеИзменениеОбслуживанияКлиентовСпециалист</content>
+  <content>DataProcessor.VanessaAutomationsingle</content>
+  <content>DataProcessor.ВКМ_МассовоеСозданиеАктов1</content>
 </mdclass:Subsystem>

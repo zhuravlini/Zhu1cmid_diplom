@@ -3,6 +3,10 @@
   <items xsi:type="form:FormField">
     <name>Период</name>
     <id>1</id>
+    <title>
+      <key>ru</key>
+      <value>Период</value>
+    </title>
     <visible>true</visible>
     <enabled>true</enabled>
     <userVisible>

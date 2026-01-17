@@ -32,4 +32,5 @@
   <content>Report.ВКМ_РасходЗапланированныхОтпусков</content>
   <content>CommonPicture.зп</content>
   <content>Role.ВКМ_РаботаСКадрДок</content>
+  <content>DataProcessor.VanessaAutomationsingle</content>
 </mdclass:Subsystem>
